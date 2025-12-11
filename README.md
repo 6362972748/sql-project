@@ -1,6 +1,6 @@
 # sql-project
 # HR Employee Attrition – SQL Project
-
+Dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
 This project contains a full SQL workflow built using the **HR Employee Attrition dataset**.  
 This project analyzes the HR Employee Attrition dataset using SQL.  
 It demonstrates database design, data import, data quality checks, exploratory analysis, and advanced SQL techniques such as CTEs, window functions, self joins, CASE expressions, and aggregations.
